@@ -19,7 +19,8 @@ The Data is extracted from ReFED’s Food Waste Monitor[https://insights-engine.
 -Removed rows with missing values
 -Excluded null rows.
 -Explode Select Investors column into individual rows for categorical analysis
--modeled my data by grouping the tables into facts and dimentions tables.
+- Grouped tables into Facts and Dimensions
+-Conected the dimension tables to the facts.
 
 ##Data analysis/visualization
 1.	I used a Colorblind Safe theme.
