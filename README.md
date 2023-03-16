@@ -19,8 +19,8 @@ According to [Rubicon](https://www.rubicon.com/blog/food-waste-facts/),
 ## Data Wrangling
 Conducted simple data wrangling and data cleaning:
 
--Removed rows with missing values.
--Excluded null rows.
+- Removed rows with missing values.
+- Excluded null rows.
 - Grouped the data columns by Facts and Dimensions tables.
 
 ## Data Modelling
